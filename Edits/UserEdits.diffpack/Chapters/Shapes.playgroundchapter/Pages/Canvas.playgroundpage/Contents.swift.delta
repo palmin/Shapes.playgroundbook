@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>fals</string>
+			<key>ModifiedRange</key>
+			<string>{267, 4}</string>
+			<key>OriginalContent</key>
+			<string>tru</string>
+			<key>OriginalRange</key>
+			<string>{267, 3}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Shapes.playgroundchapter/Pages/Canvas.playgroundpage/Contents.swift</string>
+</dict>
+</plist>
